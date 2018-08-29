@@ -1,2 +1,2 @@
 ### Libton App Store (Only Tab Pages, NOT APPLICATION)
-- [Featured Page](libton-inc.github.io/libtonastabs/featured.html)
+- [Featured Page](https://libton-inc.github.io/libtonastabs/featured.html)
