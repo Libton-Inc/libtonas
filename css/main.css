@@ -1,7 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese');
 
 html {
-	margin-top: -20px;
 	font-family: 'Roboto', sans-serif;
 	 -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
@@ -25,8 +24,8 @@ body {
 	background-color: none;
 }
 #featured-con-img{
-	min-width: 106px;
-	min-height: 106px;
+	width: 106px; 
+	height: 106px;
 	background-color: white;
 	padding: 15px;
 	
