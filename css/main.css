@@ -10,7 +10,7 @@ html {
             user-select: none;
 			background-color: white;
 				transform: scale(2.0);
-				margin-top: 300px;
+				overflow-x: hidden;
 }
 
 body {
