@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto:400,400i,500,500i,700,700i&subset=cyrillic,cyrillic-ext,greek,greek-ext,latin-ext,vietnamese');
 
 html {
+	margin-top: -20px;
 	font-family: 'Roboto', sans-serif;
 	 -webkit-touch-callout: none; /* iOS Safari */
     -webkit-user-select: none; /* Safari */
@@ -9,7 +10,6 @@ html {
         -ms-user-select: none; /* Internet Explorer/Edge */
             user-select: none;
 }
-
 body {
 	margin: 0px;
 }
@@ -24,20 +24,12 @@ body {
 	background-color: none;
 }
 #featured-con-img{
-	width: 106px; 
-	height: 106px;
+	min-width: 106px;
+	min-height: 106px;
 	background-color: white;
 	padding: 15px;
 	
 } 
-
-#you-are-new{
-	float: center;
-	text-align: center;
-	color: #353535;
-	background-image: url(../assets/libtonas-background-apps.png);
-	padding: 50px;
-}
 
 button{
 	border: 3px solid #353535;
