@@ -30,19 +30,14 @@ body {
 	color: white;
 	background: linear-gradient(180deg, #FF5F5F 50%, #FF7F7F 50%);
 	padding: 50px;
-	min-height: 312px;
-	align-content: center;
 }
 
 #you-are-new{
 	float: center;
 	text-align: center;
 	color: #353535;
-	background-image: url(../assets/libtonas-background-apps.png);
+	background: linear-gradient(180deg, #FF5F5F 50%, #FF7F7F 50%);
 	padding: 50px;
-	padding-top: 24px;
-	min-height: 312px;
-	align-content: center;
 }
 
 #featured-con{
