@@ -11,6 +11,7 @@ html {
 			background-color: white;
 				transform: scale(2.0);
 				overflow-x: hidden;
+					margin-top:300px !important;
 }
 
 body {
@@ -33,7 +34,6 @@ body {
 	background: linear-gradient(180deg, #FF5F5F 50%, #FF7F7F 50%);
 	padding: 50px;
 	height: 312px;
-	align-content: center;
 }
 
 #you-are-new{
@@ -44,12 +44,10 @@ body {
 	padding: 50px;
 	padding-top: 24px;
 	min-height: 312px;
-	align-content: center;
 }
 
 #featured-con{
 	background-color: none;
-	align-content: center;
 }
 
 #featured-con-img{
@@ -63,7 +61,6 @@ body {
 	-webkit-box-shadow: 0px 0px 23px -7px rgba(0,0,0,0.75);
 	-moz-box-shadow: 0px 0px 23px -7px rgba(0,0,0,0.75);
 	box-shadow: 0px 0px 23px -7px rgba(0,0,0,0.75);
-	align-content: center;
 }
 
 button{
